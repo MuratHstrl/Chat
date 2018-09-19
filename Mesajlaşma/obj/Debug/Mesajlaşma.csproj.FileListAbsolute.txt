@@ -1,0 +1,10 @@
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\bin\Debug\Mesajlaşma.exe.config
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\bin\Debug\Mesajlaşma.exe
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\bin\Debug\Mesajlaşma.pdb
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\obj\Debug\Mesajlaşma.csprojAssemblyReference.cache
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\obj\Debug\Mesajlaşma.Anasayfa.resources
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\obj\Debug\Mesajlaşma.Properties.Resources.resources
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\obj\Debug\Mesajlaşma.csproj.GenerateResource.cache
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\obj\Debug\Mesajlaşma.csproj.CoreCompileInputs.cache
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\obj\Debug\Mesajlaşma.exe
+C:\Users\yoked\Desktop\Staj Projeler\Mesajlaşma\Mesajlaşma\obj\Debug\Mesajlaşma.pdb
